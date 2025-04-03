@@ -1,5 +1,5 @@
 
-<h1 align="center">Este é o perfil GitHub do dev e da pessoa Sanderson👋</h1>
+<h1 align="center">Este é o perfil do dev e da pessoa Sanderson👋</h1>
 
 ###
 
@@ -32,10 +32,10 @@
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sandersoncorrea&theme=great_gatsby)
 
 ## 📂 Projetos em Andamento
-- 🔹 [Aprendizado de Pandas com Python]()
+- 🔹 [Aprendizado de Pandas com Python](https://github.com/sandersoncorrea/pandas-exemplos)
 
 ## 📂 Projetos em Finalizados
-- 🔹 [Exemplo simples de SocketIO com JS] (https://github.com/sandersoncorrea/socketiobasico)
+- 🔹 [Exemplo simples de SocketIO com JS](https://github.com/sandersoncorrea/socketiobasico)
 
 ## 📬 Entre em Contato  
 
